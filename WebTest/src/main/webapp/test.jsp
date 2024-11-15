@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%out.println("Webapp test");%>
+<%out.println("Webapp test modified");%>
 </body>
 </html>
